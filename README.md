@@ -1,4 +1,4 @@
-# ios-resnet
+#iod-caltech
 
 
 Ever wondered how can you run Caltech image classifier mobile app on remote island with just your phone and no wifi or cellular connectivity?
