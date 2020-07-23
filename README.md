@@ -1,8 +1,17 @@
 # ios-resnet
 
-Object detection using ios CoreML and resnet-50 model
 
-[![Demo Object Detection](https://evergreenllc2020.github.io/img/od.gif)](https://youtu.be/5maoJWK7RaU)
+Ever wondered how can you run Caltech image classifier mobile app on remote island with just your phone and no wifi or cellular connectivity?
 
-Step by Step video course : https://www.udemy.com/course/building-ios-object-detection-app-with-resnet-ml-model/?referralCode=AA41ECE92E2F5A0186FC
+Here is the answer. You can train your own Caltech image classifier using createML.
+
+Link to step by step video course:
+https://bit.ly/2Ebdg2E
+
+#deplearning #iOS #iphone #mobileapps
+
+[![Demo Object Detection](https://evergreenllc2020.github.io/img/caltech.gif)](https://youtu.be/kKC-qubBbTw)
+
+
+#deplearning #iOS #iphone #mobileapps
 
